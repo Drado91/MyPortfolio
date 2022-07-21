@@ -1,3 +1,15 @@
 
 AudioGenresClassificationCNN/shuffled_train.npz
 AudioGenresClassificationCNN/shuffled_valid.npz
+*.png
+*.zip
+*.csv
+ResnetUltrasoundClassification/preprocess_functions.py
+HousePriceLinearRegression/LinearRegression.ipynb
+ResnetUltrasoundClassification/preprocess_functions.py
+XRayClassificationCNN/.ipynb_checkpoints/XRay_Classif-checkpoint.ipynb
+XRayClassificationCNN/XRay_Classif.ipynb
+XRayClassificationCNN/XRay_Classif.ipynb
+XRayClassificationCNN/XRay_Classif.ipynb
+HousePriceLinearRegression/LinearRegression.ipynb
+ResnetUltrasoundClassification/preprocess_functions.py
