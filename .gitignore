@@ -13,3 +13,5 @@ XRayClassificationCNN/XRay_Classif.ipynb
 XRayClassificationCNN/XRay_Classif.ipynb
 HousePriceLinearRegression/LinearRegression.ipynb
 ResnetUltrasoundClassification/preprocess_functions.py
+*.jpg
+*.jpg
